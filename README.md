@@ -1,5 +1,5 @@
 # 🩺 Disease Prediction from Symptoms
-
+url :https://medical-disease-prediction-from-symptoms-p72tm5x4bkgppzhcyab4t.streamlit.app/
 A **Machine Learning + Streamlit** web app that predicts the most likely disease based on selected symptoms.  
 The app also provides **disease descriptions** and **precautionary measures** to guide the user.
 
@@ -56,9 +56,7 @@ Copy code
 streamlit run frontend.py
 Open the app in your browser:
 
-arduino
-Copy code
-http://localhost:8501
+
 🌐 Deployment (Streamlit Cloud)
 Push this repo to GitHub
 
